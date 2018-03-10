@@ -1,0 +1,3 @@
+1.The code should be in English (including this doc)
+2. We will use git and github for source control.
+3. 
